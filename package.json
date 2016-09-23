@@ -1,0 +1,25 @@
+{
+  "name": "grigore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodicasutu/grigore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodicasutu/grigore/issues"
+  },
+  "homepage": "https://github.com/rodicasutu/grigore#readme"
+}
